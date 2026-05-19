@@ -1,4 +1,4 @@
-# Workshop MongoDB
+# ConnectPost API - MongoDB
 
 API REST desenvolvida com Java, Spring Boot e MongoDB para gerenciamento de usuários, posts e comentários, aplicando conceitos de modelagem NoSQL, DTOs, consultas avançadas e arquitetura em camadas.
 
